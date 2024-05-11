@@ -4,6 +4,8 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
+![logo](logo/logo.jpg)
+
 ## What's greedy-snake-java
 - This is a greedy snake game implemented in Java.
 - Version of JDK is 1.8

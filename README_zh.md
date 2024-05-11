@@ -4,6 +4,8 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
+![logo](logo/logo.jpg)
+
 ## 关于greedy-snake-java
 - 这是一个Java语言实现的贪吃蛇游戏
 - 使用JDK1.8版本开发
